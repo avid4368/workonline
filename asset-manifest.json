@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/workonline/static/css/main.1edf4fa1.chunk.css",
+    "main.js": "/workonline/static/js/main.18cd0f3a.chunk.js",
+    "main.js.map": "/workonline/static/js/main.18cd0f3a.chunk.js.map",
+    "runtime~main.js": "/workonline/static/js/runtime~main.79f8a0d2.js",
+    "runtime~main.js.map": "/workonline/static/js/runtime~main.79f8a0d2.js.map",
+    "static/css/2.1d984fbf.chunk.css": "/workonline/static/css/2.1d984fbf.chunk.css",
+    "static/js/2.01bc8e69.chunk.js": "/workonline/static/js/2.01bc8e69.chunk.js",
+    "static/js/2.01bc8e69.chunk.js.map": "/workonline/static/js/2.01bc8e69.chunk.js.map",
+    "index.html": "/workonline/index.html",
+    "precache-manifest.fbdfe8d336930bc087969581512702e2.js": "/workonline/precache-manifest.fbdfe8d336930bc087969581512702e2.js",
+    "service-worker.js": "/workonline/service-worker.js",
+    "static/css/2.1d984fbf.chunk.css.map": "/workonline/static/css/2.1d984fbf.chunk.css.map",
+    "static/css/main.1edf4fa1.chunk.css.map": "/workonline/static/css/main.1edf4fa1.chunk.css.map",
+    "static/media/index.css": "/workonline/static/media/ag-index-background.2ab67eec.png",
+    "static/media/ag-logo.png": "/workonline/static/media/ag-logo.0629e278.png",
+    "static/media/icons.css": "/workonline/static/media/icons.efe053d4.ttf"
+  }
+}
